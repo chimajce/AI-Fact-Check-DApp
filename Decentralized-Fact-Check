@@ -1,0 +1,28 @@
+# 🛡️ AI Fact Checker - Decentralized Fact-Checking dApp  
+
+AI Fact Checker is a **decentralized AI-powered fact-checking application** built on the **Autonomys Network**.  
+It leverages **blockchain technology** for permanent data storage and **AI3.0** to verify information in real-time, ensuring a **censorship-resistant and trustless** fact-checking system.  
+
+## 🔍 Why AI Fact Checker?  
+Misinformation spreads rapidly, and traditional fact-checking services can be **biased or censored**.  
+AI Fact Checker provides a **decentralized solution** by:  
+✅ Using **AI3.0 for real-time fact verification**  
+✅ Storing verified information **permanently on-chain**  
+✅ Ensuring **censorship resistance and decentralization**  
+
+## 🚀 How It Works  
+1. **User submits a claim** (e.g., "Is this news article true?").  
+2. **AI analyzes the data** using machine learning & verified sources.  
+3. **Results are stored on-chain**, ensuring tamper-proof information.  
+4. **Users can vote** on results for additional validation.  
+
+## 🔧 Tech Stack  
+- **Autonomys Network** - AI3.0-powered blockchain infrastructure  
+- **Auto ID** - Identity verification to prevent AI manipulation  
+- **Machine Learning (ML)** - AI-driven misinformation detection  
+- **Decentralized Storage** - Tamper-proof fact records  
+
+## 🛠️ Installation & Usage  
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/AI-Fact-Checker.git
